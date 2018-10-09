@@ -36,6 +36,6 @@ This is useful for development or for testing purposes.
 
 ## Todo
 
-[x] write docker compose file
-[x] write samples
-[] write tests
+- [x] write docker compose file
+- [x] write samples
+- [] write tests
