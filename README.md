@@ -22,9 +22,8 @@ Have a look at the [examples directory](examples) for some use cases
 
 &nbsp;
 
-&nbsp;
-
 ## Installation
+
 There are two standard methods of installing this provider detailed [in Terraform's documentation](https://www.terraform.io/docs/configuration/providers.html#third-party-plugins). You can place the file in the directory of your .tf file in `terraform.d/plugins/{OS}_{ARCH}/` or place it in your home directory at `~/.terraform.d/plugins/{OS}_{ARCH}/`
 
 Once downloaded, be sure to make the plugin executable by running `chmod +x terraform-provider-schemaregistry`.
