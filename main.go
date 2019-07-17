@@ -3,7 +3,7 @@ package main
 import (
   "github.com/hashicorp/terraform/plugin"
   "github.com/hashicorp/terraform/terraform"
-  "github.com/francescop/terraform_provider_kafka_schema_registry/restapi"
+  "github.com/francescop/kafka_schema_registry_terraform_provider/restapi"
 )
 
 func main() {
