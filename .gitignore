@@ -48,4 +48,4 @@ override.tf.json
 # Dependency directories
 vendor/
 
-*_amd64
+terraform-provider-schemaregistry
