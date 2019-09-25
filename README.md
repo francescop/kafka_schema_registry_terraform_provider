@@ -37,4 +37,4 @@ This is useful for development or for testing purposes.
 
 - [x] write docker compose file
 - [x] write samples
-- [] write tests
+- [ ] write tests
